@@ -17,6 +17,15 @@
       "categories": ["Landscape"],
       "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/firewatch.gif",
       "media": "https://kylewhirl.com/dinowalls/media/firewatch.heic"
-    }
+    },
+    {
+      "id": "E9D67F8E-3C39-4E5D-9A0D-2B17DAA2C1A1",
+      "title": "Tahoe",
+      
+      "tags": ["stars", "blue", "lake"],
+      "categories": ["Landscape", "Space"],
+      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/nebula.gif",
+      "media": "https://kylewhirl.com/dinowalls/media/tahoe.heic"
+    },
   ]
 }
