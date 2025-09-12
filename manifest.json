@@ -19,13 +19,19 @@
       "media": "https://kylewhirl.com/dinowalls/media/firewatch.heic"
     },
     {
-      "id": "E9D67F8E-3C39-4E5D-9A0D-2B17DAA2C1A1",
+      "id": "8D3A2B1E-9C45-4F0F-9A12-7B5FD0C7A3E2",
       "title": "Tahoe",
-      
-      "tags": ["stars", "blue", "lake"],
-      "categories": ["Landscape", "Space"],
-      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/nebula.gif",
-      "media": "https://kylewhirl.com/dinowalls/media/tahoe.heic"
-    },
+      "tags": ["tahoe", "lake", "mountains"],
+      "categories": ["Nature"],
+      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/tahoe.gif",
+      "variants": {
+        "dawn": "https://kylewhirl.com/dinowalls/variants/tahoe/dawn.jpg",
+        "sunrise": "https://kylewhirl.com/dinowalls/variants/tahoe/sunrise.jpg",
+        "day": "https://kylewhirl.com/dinowalls/variants/tahoe/day.jpg",
+        "sunset": "https://kylewhirl.com/dinowalls/variants/tahoe/sunset.jpg",
+        "twilight": "https://kylewhirl.com/dinowalls/variants/tahoe/twilight.jpg",
+        "night": "https://kylewhirl.com/dinowalls/variants/tahoe/night.jpg"
+      }
+    }
   ]
 }
