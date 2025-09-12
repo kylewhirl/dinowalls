@@ -3,20 +3,20 @@
     {
       "id": "E9D67F8E-3C39-4E5D-9A0D-2B17DAA2C1A1",
       "title": "Nebula Drift",
-      "type": "heic",
+      
       "tags": ["space", "blue", "slow"],
       "categories": ["Abstract", "Space"],
-      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/nebula.jpg",
+      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/nebula.gif",
       "media": "https://kylewhirl.com/dinowalls/media/nebula.heic"
     },
     {
       "id": "1B6B8855-2F1F-44E6-9B62-6D44E6E2A5A7",
       "title": "Dino Parade",
-      "type": "gif",
+      
       "tags": ["dino", "fun", "loop"],
       "categories": ["Characters"],
-      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/dinoparade.jpg",
-      "media": "https://kylewhirl.com/dinowalls/media/dinoparade.gif"
+      "thumbnail": "https://kylewhirl.com/dinowalls/thumbnails/dinoparade.gif",
+      "media": "https://kylewhirl.com/dinowalls/media/dinoparade.heic"
     }
   ]
 }
